@@ -1,0 +1,443 @@
+.celebrities__pc__filters {
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    width: 400px;
+    background: #d9d9d9;
+    padding: 110px 20px 50px 20px;
+    color: black;
+    z-index: 10;
+    overflow: auto;
+}
+
+.celebrities__pc__filters h2 {
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 15px;
+}
+
+.celebrities__pc__filters__categories {
+    margin-bottom: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+
+.celebrities__pc__filters__categories button {
+    width: 84px;
+    border-radius: 8px;
+    padding: 2px 0;
+    outline: none;
+    border: 2px solid #101C33;
+    color: black;
+    background: transparent;
+    font-size: 12px;
+    transition: 0.2s;
+}
+
+
+.celebrities__pc__filters__categories .category-button-active {
+    background: #101C33;
+    color: white;
+}
+
+.celebrities__padding {
+    padding-top: 75px;
+    position: relative;
+    display: flex;
+    height: 100%;
+}
+
+.celebrities__mobile__filters {
+    display: none;
+    padding: 75px 2rem 0 2rem;
+    flex-direction: column;
+
+}
+
+
+
+
+
+#logo {
+    position: absolute;
+    top: calc((43px - 25px) / 2 + 1rem);
+    left: 2rem;
+    height: 25px;
+    width: auto;
+    cursor: pointer;
+}
+
+.celebrities__pc__filters__range {
+    width: 100%;
+    position: relative;
+
+}
+
+.celebrities__pc__filters__range__values {
+    margin-top: 10px;
+    margin-bottom: 30px;
+    color: #101C33;
+    font-size: 15px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+input[type="range"] {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    width: 100%;
+    outline: none;
+    position: absolute;
+    margin: auto;
+    top: 0;
+    bottom: 0;
+    background: transparent;
+    pointer-events: none;
+}
+
+.slider-track {
+    width: 100%;
+    height: 4px;
+    margin-top: 5px;
+    border-radius: 5px;
+}
+
+input[type="range"]::-webkit-slider-runnable-track {
+    -webkit-appearance: none;
+    height: 5px;
+}
+
+
+input[type="range"]::-moz-range-track {
+    -moz-appearance: none;
+    height: 5px;
+}
+
+input[type="range"]::-ms-track {
+    appearance: none;
+    height: 5px;
+}
+
+input[type="range"]::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    height: 20px;
+    width: 20px;
+    background-color: #101C33;
+    cursor: pointer;
+    border-radius: 10px;
+    margin-top: -6px;
+    border: none;
+    pointer-events: auto;
+}
+
+
+input[type="range"]::-moz-range-thumb {
+    -webkit-appearance: none;
+    height: 20px;
+    width: 20px;
+    background-color: #101C33;
+    cursor: pointer;
+    border-radius: 10px;
+    margin-top: -6px;
+    pointer-events: auto;
+    border: none;
+}
+
+input[type="range"]::-ms-thumb {
+    appearance: none;
+    height: 20px;
+    width: 20px;
+    background-color: #101C33;
+    cursor: pointer;
+    border-radius: 10px;
+    margin-top: -6px;
+    pointer-events: auto;
+    border: none;
+}
+
+.body {
+    overflow: hidden;
+
+}
+
+.celebrities__pc__filters__reviews {
+    margin-bottom: 30px;
+}
+
+.celebrities__pc__filters__reviews__option {
+    display: flex;
+    align-items: center;
+    margin-bottom: 7px;
+    font-weight: 400;
+    font-size: 15px;
+}
+
+.celebrities__pc__filters__reviews__option button {
+    width: 16px;
+    height: 16px;
+    border: 2px solid black;
+    margin-right: 15px;
+    margin-left: 5px;
+    border-radius: 3px;
+    outline: none;
+    background: transparent;
+    transition: 0.2s;
+}
+
+.celebrities__pc__filters__reviews__option .review-button-active {
+    background: #101C33;
+}
+
+.celebrities__page {
+    position: relative;
+    padding: 35px 2rem 0 2rem;
+    display: flex;
+    flex-direction: column;
+    padding-left: 435px;
+    min-height: 100vh;
+    height: 100%;
+    width: 100%;
+
+}
+
+.celebrities__pc__filters__rating {
+    display: flex;
+}
+
+.celebrities__pc__filters__rating img {
+    width: 20px;
+    height: 20px;
+    margin-right: 7px;
+}
+
+.celebrities__pc__filters__rating p {
+    margin-left: 10px;
+    font-weight: 900;
+}
+
+.celebrities__page h1 {
+    font-size: 25px;
+    font-weight: 500;
+}
+
+.celebrities__page__categories {
+    margin-top: 25px;
+    display: flex;
+}
+
+.celebrities__page__categories button {
+    font-size: 18px;
+    margin-right: 2vw;
+    width: 135px;
+    padding: 8px 0;
+    background: transparent;
+    border-radius: 12px;
+    color: white;
+    border: 3px solid white;
+    transition: 0.2s;
+}
+
+.celebrities__page .category-button-active {
+    background-color: white;
+    color: black;
+    transition: 0.2s;
+    font-weight: 600;
+}
+
+.celebrities__page__celebrities {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    width: 100%;
+
+
+}
+
+.celebrities__page__celebrities h2 {
+    font-size: 25px;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+
+.celebrities__page__category {
+    display: flex;
+    margin-bottom: 25px;
+    width: 100%;
+    overflow: auto;
+    padding-bottom: 10px;
+}
+
+.celebrities__page__celebrity {
+    position: relative;
+    min-height: 170px;
+    min-width: 120px;
+    width: 120px;
+    height: 170px;
+    margin-right: 60px;
+    border-radius: 15px 15px 0 0;
+    background-color: black;
+}
+
+
+.celebrities__page__celebrity img {
+    height: 120px;
+    width: 120px;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 15px 15px 0 0;
+    opacity: 0.95;
+
+}
+
+.celebrities__page__celebrity__info {
+    position: absolute;
+    top: 10px;
+    right: 0;
+    width: 120px;
+    padding-right: 5px;
+}
+
+.celebrities__page__celebrity__stars {
+    display: flex;
+    width: 100%;
+    justify-content: flex-end;
+    gap: 2%;
+}
+
+.celebrities__page__celebrity__stars img {
+    width: 12px;
+    height: 12px;
+    margin: 0;
+    padding: 0;
+    opacity: 1;
+}
+
+.celebrities__page__celebrity__price {
+    font-size: 12px;
+    color: black;
+    display: flex;
+    justify-content: flex-end;
+
+}
+
+
+.celebrities__page__celebrity__price__box {
+    border-radius: 12px;
+    border: 2px solid #101C33;
+    margin-top: 5px;
+    min-width: 30px;
+    padding: 0 2px;
+    background: #D9D9D9;
+    text-align: center;
+}
+
+.celebrities__page__celebrity__name {
+    position: absolute;
+    bottom: 0;
+    background-color: #D9D9D9;
+    color: #101C33;
+    font-weight: 800;
+    font-size: 15px;
+    width: 100%;
+    height: 50px;
+    display: flex;
+    padding: 4px 6px;
+}
+
+.celebrities__page__filters {
+    display: none;
+    font-size: 10px;
+    margin-top: 30px;
+    align-items: center;
+    cursor: pointer;
+    width: fit-content;
+}
+
+
+
+
+.celebrities__page__filters .fa {
+    width: 12px;
+    height: 12px;
+    margin-right: 5px;
+}
+
+.celebrities__page__filters h2 {
+    font-weight: 600;
+}
+
+.closeFilters {
+    color: black;
+    width: 20px;
+    height: 20px;
+    z-index: 1000;
+    position: absolute;
+    display: none;
+
+}
+
+.celebrities__footer .footer {
+    padding-left: 450px;
+}
+
+.celebrities__footer hr {
+    outline: none;
+    margin: 0;
+    margin-left: 435px;
+    margin-right: 35px;
+
+    border: 1px solid rgba(255, 255, 255, .3);
+}
+
+@media screen and (max-width: 1150px) {
+    .celebrities__pc__filters {
+        position: fixed;
+        transition: 1s;
+        left: -400px;
+        width: 350px;
+    }
+
+    .celebrities__footer .footer {
+        padding: 3rem 5vw 3rem 5vw;
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+    }
+
+    .celebrities__footer hr {
+        outline: none;
+        margin: 0;
+        margin-left: 20px;
+        margin-right: 20px;
+
+        border: 1px solid rgba(255, 255, 255, .3);
+    }
+
+
+
+    .celebrities__page {
+        padding-left: 20px;
+    }
+
+    .celebrities__page__filters {
+        display: flex;
+    }
+
+    .closeFilters {
+        color: black;
+        width: 20px;
+        height: 20px;
+        z-index: 1000;
+        position: absolute;
+        display: flex;
+        top: 20px;
+        right: 20px;
+    }
+
+}

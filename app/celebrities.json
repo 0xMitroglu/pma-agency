@@ -1,0 +1,167 @@
+{
+    "celebrities": [
+        {
+            "name": "Andrew Tate",
+            "imageFront": "https://cdn-wp.thesportsrush.com/2022/12/a3187167-screenshot_28.png",
+
+            "price": 5,
+            "rating": 1,
+            "reviews": 20,
+            "stripesPrice": "price_1NUtdKGAZUvcZaJXBsbuNJte",
+            "categories": ["Speech", "Sport", "Motivation", "Top G", "Athlete"],
+            "reviewsText": [
+                {
+                    "name": "Tristan Tate",
+                    "text": "You are the best brother in the world. Let's beat the Matrix together and take them down",
+                    "profileImage": "https://media.gettr.com/group28/getter/2022/08/20/16/537baf59-d974-88df-1b5e-d22d9166667b/419dcfdbca4f05097d6b9a837070bb4d.jpg",
+                    "rating": 4.9
+                },
+                {
+                    "name": "Kobey Bryant",
+                    "text": "You are a good role model for the youth. You are a great person and will help the future a lot.",
+                    "profileImage": "https://media.cnn.com/api/v1/images/stellar/prod/200824175931-kobe-bryant-file.jpg?q=x_5,y_112,h_1403,w_2494,c_crop/h_720,w_1280",
+                    "rating": 4.2
+                },
+                {
+                    "name": "Tristan Tate",
+                    "text": "You are the best brother in the world. Let's beat the Matrix together and take them down",
+                    "profileImage": "https://media.gettr.com/group28/getter/2022/08/20/16/537baf59-d974-88df-1b5e-d22d9166667b/419dcfdbca4f05097d6b9a837070bb4d.jpg",
+                    "rating": 3.8
+                },
+                {
+                    "name": "Tristan Tate",
+                    "text": "You are the best brother in the world. Let's beat the Matrix together and take them down",
+                    "profileImage": "https://media.gettr.com/group28/getter/2022/08/20/16/537baf59-d974-88df-1b5e-d22d9166667b/419dcfdbca4f05097d6b9a837070bb4d.jpg",
+                    "rating": 3.8
+                },
+                {
+                    "name": "Tristan Tate",
+                    "text": "You are the best brother in the world. Let's beat the Matrix together and take them down",
+                    "profileImage": "https://media.gettr.com/group28/getter/2022/08/20/16/537baf59-d974-88df-1b5e-d22d9166667b/419dcfdbca4f05097d6b9a837070bb4d.jpg",
+                    "rating": 3.8
+                },
+                {
+                    "name": "Tristan Tate",
+                    "text": "You are the best brother in the world. Let's beat the Matrix together and take them down",
+                    "profileImage": "https://media.gettr.com/group28/getter/2022/08/20/16/537baf59-d974-88df-1b5e-d22d9166667b/419dcfdbca4f05097d6b9a837070bb4d.jpg",
+                    "rating": 3.8
+                }
+            ],
+            "description": "Andrew Tate is a British-American kickboxing champion turned entrepreneur and internet personality known for his controversial viewpoints and motivational content.",
+            "images": [
+                "https://lckingscourier.net/wp-content/uploads/2023/01/Andrew-Tate-Car.jpeg",
+                "https://storage0.dms.mpinteractiv.ro/media/1/1/19426/21100797/5/tumblr-248416fb2ec76baf257c68d5c5c750ec-5a8a5119-1280.jpg?width=400",
+                "https://www.rollingstone.com/wp-content/uploads/2022/12/andrew-tate-video-analysis.jpg?w=1581&h=1054&crop=1",
+                "https://s3-eu-west-2.amazonaws.com/photos.thearticle.com/app/production/articles/5074/andrew-tate-and-the-incelislamist-nexus.jpg"
+            ]
+        },
+        {
+            "name": "Tristan Tate",
+            "imageFront": "https://thescoop.co.ke/wp-content/uploads/2023/05/EBCBD628-6954-4BBB-B2C4-D153F87FAD22.jpeg",
+            "stripesPrice": "price_1NUtilGAZUvcZaJXktrfeWAU",
+            "price": 60,
+            "rating": 4.5,
+            "reviews": 20,
+            "categories": ["Speech", "Sport", "Motivation", "Top G"],
+            "reviewsText": [
+                {
+                    "name": "Tristan Tate",
+                    "text": "You are the best brother in the world. Let's beat the Matrix together and take them down",
+                    "profileImage": "https://media.gettr.com/group28/getter/2022/08/20/16/537baf59-d974-88df-1b5e-d22d9166667b/419dcfdbca4f05097d6b9a837070bb4d.jpg",
+                    "rating": 4.9
+                },
+                {
+                    "name": "Kobey Bryant",
+                    "text": "You are a good role model for the youth. You are a great person and will help the future a lot.",
+                    "profileImage": "https://media.cnn.com/api/v1/images/stellar/prod/200824175931-kobe-bryant-file.jpg?q=x_5,y_112,h_1403,w_2494,c_crop/h_720,w_1280",
+                    "rating": 4.2
+                },
+                {
+                    "name": "Tristan Tate",
+                    "text": "You are the best brother in the world. Let's beat the Matrix together and take them down",
+                    "profileImage": "https://media.gettr.com/group28/getter/2022/08/20/16/537baf59-d974-88df-1b5e-d22d9166667b/419dcfdbca4f05097d6b9a837070bb4d.jpg",
+                    "rating": 3.8
+                },
+                {
+                    "name": "Tristan Tate",
+                    "text": "You are the best brother in the world. Let's beat the Matrix together and take them down",
+                    "profileImage": "https://media.gettr.com/group28/getter/2022/08/20/16/537baf59-d974-88df-1b5e-d22d9166667b/419dcfdbca4f05097d6b9a837070bb4d.jpg",
+                    "rating": 3.8
+                },
+                {
+                    "name": "Tristan Tate",
+                    "text": "You are the best brother in the world. Let's beat the Matrix together and take them down",
+                    "profileImage": "https://media.gettr.com/group28/getter/2022/08/20/16/537baf59-d974-88df-1b5e-d22d9166667b/419dcfdbca4f05097d6b9a837070bb4d.jpg",
+                    "rating": 3.8
+                },
+                {
+                    "name": "Tristan Tate",
+                    "text": "You are the best brother in the world. Let's beat the Matrix together and take them down",
+                    "profileImage": "https://media.gettr.com/group28/getter/2022/08/20/16/537baf59-d974-88df-1b5e-d22d9166667b/419dcfdbca4f05097d6b9a837070bb4d.jpg",
+                    "rating": 3.8
+                }
+            ],
+            "description": "Andrew Tate is a British-American kickboxing champion turned entrepreneur and internet personality known for his controversial viewpoints and motivational content.",
+            "images": [
+                "https://lckingscourier.net/wp-content/uploads/2023/01/Andrew-Tate-Car.jpeg",
+                "https://storage0.dms.mpinteractiv.ro/media/1/1/19426/21100797/5/tumblr-248416fb2ec76baf257c68d5c5c750ec-5a8a5119-1280.jpg?width=400",
+                "https://www.rollingstone.com/wp-content/uploads/2022/12/andrew-tate-video-analysis.jpg?w=1581&h=1054&crop=1",
+                "https://s3-eu-west-2.amazonaws.com/photos.thearticle.com/app/production/articles/5074/andrew-tate-and-the-incelislamist-nexus.jpg"
+            ]
+        },
+        {
+            "name": "Donald Trump",
+            "imageFront": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/640px-Donald_Trump_official_portrait.jpg",
+            "stripesPrice": "price_1NUtkUGAZUvcZaJXLaeHUlg4",
+            "price": 120,
+            "rating": 4.5,
+            "reviews": 20,
+            "categories": ["Politician", "Motivation", "Business"],
+            "reviewsText": [
+                {
+                    "name": "Tristan Tate",
+                    "text": "You are the best brother in the world. Let's beat the Matrix together and take them down",
+                    "profileImage": "https://media.gettr.com/group28/getter/2022/08/20/16/537baf59-d974-88df-1b5e-d22d9166667b/419dcfdbca4f05097d6b9a837070bb4d.jpg",
+                    "rating": 4.9
+                },
+                {
+                    "name": "Kobey Bryant",
+                    "text": "You are a good role model for the youth. You are a great person and will help the future a lot.",
+                    "profileImage": "https://media.cnn.com/api/v1/images/stellar/prod/200824175931-kobe-bryant-file.jpg?q=x_5,y_112,h_1403,w_2494,c_crop/h_720,w_1280",
+                    "rating": 4.2
+                },
+                {
+                    "name": "Tristan Tate",
+                    "text": "You are the best brother in the world. Let's beat the Matrix together and take them down",
+                    "profileImage": "https://media.gettr.com/group28/getter/2022/08/20/16/537baf59-d974-88df-1b5e-d22d9166667b/419dcfdbca4f05097d6b9a837070bb4d.jpg",
+                    "rating": 3.8
+                },
+                {
+                    "name": "Tristan Tate",
+                    "text": "You are the best brother in the world. Let's beat the Matrix together and take them down",
+                    "profileImage": "https://media.gettr.com/group28/getter/2022/08/20/16/537baf59-d974-88df-1b5e-d22d9166667b/419dcfdbca4f05097d6b9a837070bb4d.jpg",
+                    "rating": 3.8
+                },
+                {
+                    "name": "Tristan Tate",
+                    "text": "You are the best brother in the world. Let's beat the Matrix together and take them down",
+                    "profileImage": "https://media.gettr.com/group28/getter/2022/08/20/16/537baf59-d974-88df-1b5e-d22d9166667b/419dcfdbca4f05097d6b9a837070bb4d.jpg",
+                    "rating": 3.8
+                },
+                {
+                    "name": "Tristan Tate",
+                    "text": "You are the best brother in the world. Let's beat the Matrix together and take them down",
+                    "profileImage": "https://media.gettr.com/group28/getter/2022/08/20/16/537baf59-d974-88df-1b5e-d22d9166667b/419dcfdbca4f05097d6b9a837070bb4d.jpg",
+                    "rating": 3.8
+                }
+            ],
+            "description": "Andrew Tate is a British-American kickboxing champion turned entrepreneur and internet personality known for his controversial viewpoints and motivational content.",
+            "images": [
+                "https://lckingscourier.net/wp-content/uploads/2023/01/Andrew-Tate-Car.jpeg",
+                "https://storage0.dms.mpinteractiv.ro/media/1/1/19426/21100797/5/tumblr-248416fb2ec76baf257c68d5c5c750ec-5a8a5119-1280.jpg?width=400",
+                "https://www.rollingstone.com/wp-content/uploads/2022/12/andrew-tate-video-analysis.jpg?w=1581&h=1054&crop=1",
+                "https://s3-eu-west-2.amazonaws.com/photos.thearticle.com/app/production/articles/5074/andrew-tate-and-the-incelislamist-nexus.jpg"
+            ]
+        }
+    ]
+}

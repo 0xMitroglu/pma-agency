@@ -1,0 +1,100 @@
+{
+    "trending": [
+        {
+            "name": "Andrew Tate",
+            "image": "https://youthscape.ams3.cdn.digitaloceanspaces.com/images/16723620780107.remini-enhanced.jpg",
+            "video": "https://www.youtube.com/embed/CRerpZIFbnA",
+            "price": 230,
+            "rating": 4.8,
+            "description": "Kickboxing champion and entrepreneur"
+        },
+        {
+            "name": "Lionel Messi",
+            "image": "https://www.hindustantimes.com/ht-img/img/2023/05/27/550x309/Lionel-Messi-kisses-the-World-Cup-after-winning-FI_1672480649785_1685179125087.jpg",
+            "video": "https://www.youtube.com/embed/ZmKy_fnRM_E",
+            "price": 102,
+            "rating": 4.9,
+            "description": "Soccer legend and record-breaker"
+        },
+        {
+            "name": "Drake",
+            "image": "https://image.gala.de/22630358/t/z7/v6/w1440/r1/-/drake.jpg",
+            "video": "https://www.youtube.com/embed/xpVfcZ0ZcFM",
+            "price": 66,
+            "rating": 4.7,
+            "description": "Chart-topping rapper and singer"
+        },
+        {
+            "name": "Andrew Tate",
+            "image": "https://youthscape.ams3.cdn.digitaloceanspaces.com/images/16723620780107.remini-enhanced.jpg",
+            "video": "https://www.youtube.com/embed/CRerpZIFbnA",
+            "price": 230,
+            "rating": 4.8,
+            "description": "Kickboxing champion and entrepreneur"
+        },
+        {
+            "name": "Lionel Messi",
+            "image": "https://www.hindustantimes.com/ht-img/img/2023/05/27/550x309/Lionel-Messi-kisses-the-World-Cup-after-winning-FI_1672480649785_1685179125087.jpg",
+            "video": "https://www.youtube.com/embed/ZmKy_fnRM_E",
+            "price": 102,
+            "rating": 4.9,
+            "description": "Soccer legend and record-breaker"
+        },
+        {
+            "name": "Drake",
+            "image": "https://image.gala.de/22630358/t/z7/v6/w1440/r1/-/drake.jpg",
+            "video": "https://www.youtube.com/embed/xpVfcZ0ZcFM",
+            "price": 66,
+            "rating": 4.7,
+            "description": "Chart-topping rapper and singer"
+        },
+        {
+            "name": "Andrew Tate",
+            "image": "https://youthscape.ams3.cdn.digitaloceanspaces.com/images/16723620780107.remini-enhanced.jpg",
+            "video": "https://www.youtube.com/embed/CRerpZIFbnA",
+            "price": 230,
+            "rating": 4.8,
+            "description": "Kickboxing champion and entrepreneur"
+        },
+        {
+            "name": "Lionel Messi",
+            "image": "https://www.hindustantimes.com/ht-img/img/2023/05/27/550x309/Lionel-Messi-kisses-the-World-Cup-after-winning-FI_1672480649785_1685179125087.jpg",
+            "video": "https://www.youtube.com/embed/ZmKy_fnRM_E",
+            "price": 102,
+            "rating": 4.9,
+            "description": "Soccer legend and record-breaker"
+        },
+        {
+            "name": "Drake",
+            "image": "https://image.gala.de/22630358/t/z7/v6/w1440/r1/-/drake.jpg",
+            "video": "https://www.youtube.com/embed/xpVfcZ0ZcFM",
+            "price": 66,
+            "rating": 4.7,
+            "description": "Chart-topping rapper and singer"
+        },
+        {
+            "name": "Andrew Tate",
+            "image": "https://youthscape.ams3.cdn.digitaloceanspaces.com/images/16723620780107.remini-enhanced.jpg",
+            "video": "https://www.youtube.com/embed/CRerpZIFbnA",
+            "price": 230,
+            "rating": 4.8,
+            "description": "Kickboxing champion and entrepreneur"
+        },
+        {
+            "name": "Lionel Messi",
+            "image": "https://www.hindustantimes.com/ht-img/img/2023/05/27/550x309/Lionel-Messi-kisses-the-World-Cup-after-winning-FI_1672480649785_1685179125087.jpg",
+            "video": "https://www.youtube.com/embed/ZmKy_fnRM_E",
+            "price": 102,
+            "rating": 4.9,
+            "description": "Soccer legend and record-breaker"
+        },
+        {
+            "name": "Drake",
+            "image": "https://image.gala.de/22630358/t/z7/v6/w1440/r1/-/drake.jpg",
+            "video": "https://www.youtube.com/embed/xpVfcZ0ZcFM",
+            "price": 66,
+            "rating": 4.7,
+            "description": "Chart-topping rapper and singer"
+        }
+    ]
+}

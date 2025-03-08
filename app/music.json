@@ -1,0 +1,68 @@
+{
+    "music": [
+        {
+            "name": "Lionel Messi",
+            "image": "https://www.hindustantimes.com/ht-img/img/2023/05/27/550x309/Lionel-Messi-kisses-the-World-Cup-after-winning-FI_1672480649785_1685179125087.jpg",
+            "video": "https://www.youtube.com/embed/ZmKy_fnRM_E",
+            "price": 102,
+            "rating": 4.9,
+            "description": "Soccer legend and record-breaker"
+        },
+        {
+            "name": "Christiano Ronaldo",
+            "image": "https://i.guim.co.uk/img/media/3f183e3024872dc0280012487854dc5807048166/0_42_3600_2160/master/3600.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=058c94b78fa84d2639fecbef790041f1",
+            "video": "https://www.youtube.com/embed/OUKGsb8CpF8",
+            "price": 99,
+            "rating": 4.4,
+            "description": "Football icon and goal-machine."
+        },
+        {
+            "name": "Lionel Messi",
+            "image": "https://www.hindustantimes.com/ht-img/img/2023/05/27/550x309/Lionel-Messi-kisses-the-World-Cup-after-winning-FI_1672480649785_1685179125087.jpg",
+            "video": "https://www.youtube.com/embed/ZmKy_fnRM_E",
+            "price": 102,
+            "rating": 4.9,
+            "description": "Soccer legend and record-breaker"
+        },
+        {
+            "name": "Christiano Ronaldo",
+            "image": "https://i.guim.co.uk/img/media/3f183e3024872dc0280012487854dc5807048166/0_42_3600_2160/master/3600.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=058c94b78fa84d2639fecbef790041f1",
+            "video": "https://www.youtube.com/embed/OUKGsb8CpF8",
+            "price": 99,
+            "rating": 4.4,
+            "description": "Football icon and goal-machine."
+        },
+        {
+            "name": "Lionel Messi",
+            "image": "https://www.hindustantimes.com/ht-img/img/2023/05/27/550x309/Lionel-Messi-kisses-the-World-Cup-after-winning-FI_1672480649785_1685179125087.jpg",
+            "video": "https://www.youtube.com/embed/ZmKy_fnRM_E",
+            "price": 102,
+            "rating": 4.9,
+            "description": "Soccer legend and record-breaker"
+        },
+        {
+            "name": "Christiano Ronaldo",
+            "image": "https://i.guim.co.uk/img/media/3f183e3024872dc0280012487854dc5807048166/0_42_3600_2160/master/3600.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=058c94b78fa84d2639fecbef790041f1",
+            "video": "https://www.youtube.com/embed/OUKGsb8CpF8",
+            "price": 99,
+            "rating": 4.4,
+            "description": "Football icon and goal-machine."
+        },
+        {
+            "name": "Lionel Messi",
+            "image": "https://www.hindustantimes.com/ht-img/img/2023/05/27/550x309/Lionel-Messi-kisses-the-World-Cup-after-winning-FI_1672480649785_1685179125087.jpg",
+            "video": "https://www.youtube.com/embed/ZmKy_fnRM_E",
+            "price": 102,
+            "rating": 4.9,
+            "description": "Soccer legend and record-breaker"
+        },
+        {
+            "name": "Christiano Ronaldo",
+            "image": "https://i.guim.co.uk/img/media/3f183e3024872dc0280012487854dc5807048166/0_42_3600_2160/master/3600.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=058c94b78fa84d2639fecbef790041f1",
+            "video": "https://www.youtube.com/embed/OUKGsb8CpF8",
+            "price": 99,
+            "rating": 4.4,
+            "description": "Football icon and goal-machine."
+        }
+    ]
+}
