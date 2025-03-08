@@ -1,6 +1,6 @@
 # 🎤 PMA Agency - Book Celebrities for a Call  
 
-![PMA Agency Screenshot](https://via.placeholder.com/1200x600.png?text=PMA+Agency)  
+![PMA Agency Screenshot](https://i.imgur.com/It4SmDg.png)  
 
 ## 🚀 Live Demo  
 🔗 [Visit PMA Agency](https://pma-agency.vercel.app)  
